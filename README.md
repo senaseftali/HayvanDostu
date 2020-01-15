@@ -1,2 +1,2 @@
 # Hayvan-Dostu-Revize
- Yapım aşamasında eksikleri var
+Mvc responsive patant kullanarak geliştirmeteyim yapım aşamasında eksikleri var
