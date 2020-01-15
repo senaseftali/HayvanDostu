@@ -1,0 +1,36 @@
+C:\Users\lenovo\Desktop\Hayvan Dostu Revize\HayvanDostu\HayvanDostu.DAL\bin\Debug\HayvanDostu.DAL.dll.config
+C:\Users\lenovo\Desktop\Hayvan Dostu Revize\HayvanDostu\HayvanDostu.DAL\bin\Debug\HayvanDostu.DAL.dll
+C:\Users\lenovo\Desktop\Hayvan Dostu Revize\HayvanDostu\HayvanDostu.DAL\bin\Debug\HayvanDostu.DAL.pdb
+C:\Users\lenovo\Desktop\Hayvan Dostu Revize\HayvanDostu\HayvanDostu.DAL\bin\Debug\EntityFramework.dll
+C:\Users\lenovo\Desktop\Hayvan Dostu Revize\HayvanDostu\HayvanDostu.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\lenovo\Desktop\Hayvan Dostu Revize\HayvanDostu\HayvanDostu.DAL\bin\Debug\HAYVANDOSTU.CORE.dll
+C:\Users\lenovo\Desktop\Hayvan Dostu Revize\HayvanDostu\HayvanDostu.DAL\bin\Debug\HayvanDostu.Model.dll
+C:\Users\lenovo\Desktop\Hayvan Dostu Revize\HayvanDostu\HayvanDostu.DAL\bin\Debug\HAYVANDOSTU.CORE.pdb
+C:\Users\lenovo\Desktop\Hayvan Dostu Revize\HayvanDostu\HayvanDostu.DAL\bin\Debug\HAYVANDOSTU.CORE.dll.config
+C:\Users\lenovo\Desktop\Hayvan Dostu Revize\HayvanDostu\HayvanDostu.DAL\bin\Debug\HayvanDostu.Model.pdb
+C:\Users\lenovo\Desktop\Hayvan Dostu Revize\HayvanDostu\HayvanDostu.DAL\bin\Debug\HayvanDostu.Model.dll.config
+C:\Users\lenovo\Desktop\Hayvan Dostu Revize\HayvanDostu\HayvanDostu.DAL\bin\Debug\EntityFramework.xml
+C:\Users\lenovo\Desktop\Hayvan Dostu Revize\HayvanDostu\HayvanDostu.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\lenovo\Desktop\Hayvan Dostu Revize\HayvanDostu\HayvanDostu.DAL\obj\Debug\HayvanDostu.DAL.csprojAssemblyReference.cache
+C:\Users\lenovo\Desktop\Hayvan Dostu Revize\HayvanDostu\HayvanDostu.DAL\obj\Debug\HayvanDostu.DAL.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\Hayvan Dostu Revize\HayvanDostu\HayvanDostu.DAL\obj\Debug\HayvanDostu.DAL.csproj.CopyComplete
+C:\Users\lenovo\Desktop\Hayvan Dostu Revize\HayvanDostu\HayvanDostu.DAL\obj\Debug\HayvanDostu.DAL.dll
+C:\Users\lenovo\Desktop\Hayvan Dostu Revize\HayvanDostu\HayvanDostu.DAL\obj\Debug\HayvanDostu.DAL.pdb
+C:\Users\SENA\Downloads\Hayvan Dostu Revize (1)\Hayvan Dostu Revize\HayvanDostu\HayvanDostu.DAL\bin\Debug\HayvanDostu.DAL.dll.config
+C:\Users\SENA\Downloads\Hayvan Dostu Revize (1)\Hayvan Dostu Revize\HayvanDostu\HayvanDostu.DAL\bin\Debug\HayvanDostu.DAL.dll
+C:\Users\SENA\Downloads\Hayvan Dostu Revize (1)\Hayvan Dostu Revize\HayvanDostu\HayvanDostu.DAL\bin\Debug\HayvanDostu.DAL.pdb
+C:\Users\SENA\Downloads\Hayvan Dostu Revize (1)\Hayvan Dostu Revize\HayvanDostu\HayvanDostu.DAL\bin\Debug\EntityFramework.dll
+C:\Users\SENA\Downloads\Hayvan Dostu Revize (1)\Hayvan Dostu Revize\HayvanDostu\HayvanDostu.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\SENA\Downloads\Hayvan Dostu Revize (1)\Hayvan Dostu Revize\HayvanDostu\HayvanDostu.DAL\bin\Debug\HAYVANDOSTU.CORE.dll
+C:\Users\SENA\Downloads\Hayvan Dostu Revize (1)\Hayvan Dostu Revize\HayvanDostu\HayvanDostu.DAL\bin\Debug\HayvanDostu.Model.dll
+C:\Users\SENA\Downloads\Hayvan Dostu Revize (1)\Hayvan Dostu Revize\HayvanDostu\HayvanDostu.DAL\bin\Debug\HAYVANDOSTU.CORE.pdb
+C:\Users\SENA\Downloads\Hayvan Dostu Revize (1)\Hayvan Dostu Revize\HayvanDostu\HayvanDostu.DAL\bin\Debug\HAYVANDOSTU.CORE.dll.config
+C:\Users\SENA\Downloads\Hayvan Dostu Revize (1)\Hayvan Dostu Revize\HayvanDostu\HayvanDostu.DAL\bin\Debug\HayvanDostu.Model.pdb
+C:\Users\SENA\Downloads\Hayvan Dostu Revize (1)\Hayvan Dostu Revize\HayvanDostu\HayvanDostu.DAL\bin\Debug\HayvanDostu.Model.dll.config
+C:\Users\SENA\Downloads\Hayvan Dostu Revize (1)\Hayvan Dostu Revize\HayvanDostu\HayvanDostu.DAL\bin\Debug\EntityFramework.xml
+C:\Users\SENA\Downloads\Hayvan Dostu Revize (1)\Hayvan Dostu Revize\HayvanDostu\HayvanDostu.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\SENA\Downloads\Hayvan Dostu Revize (1)\Hayvan Dostu Revize\HayvanDostu\HayvanDostu.DAL\obj\Debug\HayvanDostu.DAL.csprojAssemblyReference.cache
+C:\Users\SENA\Downloads\Hayvan Dostu Revize (1)\Hayvan Dostu Revize\HayvanDostu\HayvanDostu.DAL\obj\Debug\HayvanDostu.DAL.csproj.CoreCompileInputs.cache
+C:\Users\SENA\Downloads\Hayvan Dostu Revize (1)\Hayvan Dostu Revize\HayvanDostu\HayvanDostu.DAL\obj\Debug\HayvanDostu.DAL.csproj.CopyComplete
+C:\Users\SENA\Downloads\Hayvan Dostu Revize (1)\Hayvan Dostu Revize\HayvanDostu\HayvanDostu.DAL\obj\Debug\HayvanDostu.DAL.dll
+C:\Users\SENA\Downloads\Hayvan Dostu Revize (1)\Hayvan Dostu Revize\HayvanDostu\HayvanDostu.DAL\obj\Debug\HayvanDostu.DAL.pdb

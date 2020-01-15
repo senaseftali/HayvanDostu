@@ -1,0 +1,70 @@
+﻿@model IEnumerable<HayvanDostu.Model.Uye>
+@{
+    ViewBag.Title = "Talep";
+}
+
+
+<div class="panel-body">
+    <table class="table table-striped">
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>@item.KullaniciAdi</td>
+                    <td>@item.Sifre</td>
+                    <td>@item.Mail</td>
+                    <td><button class="btn btn-success" data-Mail="@item.Mail">Onay</button></td>
+                    <td><button class="btn btn-danger" data-Mail="@item.Mail">Red</button></td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
+
+@section scripts{
+    <script>
+        $(".btn-success").click(function () {
+            var mail = $(this).attr("data-Mail");
+            var uye = {
+                "Mail": mail,
+                "Onay":true
+            };
+            $.ajax({
+                type: "POST",
+                url: "/Admin/Talep",
+                data: uye,
+                success: function (data) {                    
+                        alert("Mail Gönderildi");
+                        window.location.reload();
+                },
+                error: function (err) {
+                    alert("Hata oluştu");
+                    console.log(err);
+                }
+            });
+        });
+
+        $(".btn-danger").click(function () {
+           var mail = $(this).attr("data-Mail");
+            var uye = {
+                "Mail": mail,
+                "Onay":false
+            };
+            $.ajax({
+                type: "POST",
+                url: "/Admin/Talep",
+                data:uye,
+                success: function (data) {
+                    alert("Mail Gönderildi");
+                },
+                error: function (err) {
+                    alert("Hata oluştu");
+                    console.log(err);
+                }
+            });
+        });
+
+    </script>
+}
+
+

@@ -1,0 +1,39 @@
+﻿@using HayvanDostu.Model
+@model Admin
+@{
+    ViewBag.Title = "Index";
+}
+
+<link href="~/Content/home.css" rel="stylesheet" />
+<link href="~/Content/bootstrap.min.css" rel="stylesheet" />
+<script src="~/Scripts/bootstrap.min.js"></script>
+<link href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.0/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
+@*<script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.0/js/bootstrap.min.js"></script>
+    <script src="//code.jquery.com/jquery-1.11.1.min.js"></script>*@
+@using (Html.BeginForm())
+{
+    <section class="login-info">
+        <div class="container">
+            <div class="row main">
+                <img src="https://galeri14.uludagsozluk.com/847/kedi-mi-kopek-mi_1716235.jpg" width="500px" height="350px" />
+                <div class="main-content">
+
+                    <div class="input-group ">
+                        <span class="input-group-addon"><span class="glyphicon glyphicon-user" aria-hidden="true"></span></span>
+                        @Html.TextBoxFor(model => model.KullaniciAdi, new { @class = "form-control", placeholder = "Kullanıcı Adınız" })
+                    </div>
+                    <div class="input-group">
+                        <span class="input-group-addon"><span class="glyphicon glyphicon-lock" aria-hidden="true"></span></span>
+                        @Html.TextBoxFor(model => model.Sifre, new { @class = "form-control", placeholder = "Şifre", type = "password" })
+                    </div>
+                    <div class="form-group ">
+                        <button type="submit" class="btn btn-danger btn-lg btn-block login-button">Giriş</button>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+    </section>
+}
+
+

@@ -1,0 +1,26 @@
+C:\Users\lenovo\Desktop\Hayvan Dostu Revize\HayvanDostu\HayvanDostu.Model\bin\Debug\HayvanDostu.Model.dll.config
+C:\Users\lenovo\Desktop\Hayvan Dostu Revize\HayvanDostu\HayvanDostu.Model\bin\Debug\HayvanDostu.Model.dll
+C:\Users\lenovo\Desktop\Hayvan Dostu Revize\HayvanDostu\HayvanDostu.Model\bin\Debug\HayvanDostu.Model.pdb
+C:\Users\lenovo\Desktop\Hayvan Dostu Revize\HayvanDostu\HayvanDostu.Model\bin\Debug\HAYVANDOSTU.CORE.dll
+C:\Users\lenovo\Desktop\Hayvan Dostu Revize\HayvanDostu\HayvanDostu.Model\bin\Debug\EntityFramework.dll
+C:\Users\lenovo\Desktop\Hayvan Dostu Revize\HayvanDostu\HayvanDostu.Model\bin\Debug\HAYVANDOSTU.CORE.pdb
+C:\Users\lenovo\Desktop\Hayvan Dostu Revize\HayvanDostu\HayvanDostu.Model\bin\Debug\HAYVANDOSTU.CORE.dll.config
+C:\Users\lenovo\Desktop\Hayvan Dostu Revize\HayvanDostu\HayvanDostu.Model\bin\Debug\EntityFramework.xml
+C:\Users\lenovo\Desktop\Hayvan Dostu Revize\HayvanDostu\HayvanDostu.Model\obj\Debug\HayvanDostu.Model.csprojAssemblyReference.cache
+C:\Users\lenovo\Desktop\Hayvan Dostu Revize\HayvanDostu\HayvanDostu.Model\obj\Debug\HayvanDostu.Model.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\Hayvan Dostu Revize\HayvanDostu\HayvanDostu.Model\obj\Debug\HayvanDostu.Model.csproj.CopyComplete
+C:\Users\lenovo\Desktop\Hayvan Dostu Revize\HayvanDostu\HayvanDostu.Model\obj\Debug\HayvanDostu.Model.dll
+C:\Users\lenovo\Desktop\Hayvan Dostu Revize\HayvanDostu\HayvanDostu.Model\obj\Debug\HayvanDostu.Model.pdb
+C:\Users\SENA\Downloads\Hayvan Dostu Revize (1)\Hayvan Dostu Revize\HayvanDostu\HayvanDostu.Model\bin\Debug\HayvanDostu.Model.dll.config
+C:\Users\SENA\Downloads\Hayvan Dostu Revize (1)\Hayvan Dostu Revize\HayvanDostu\HayvanDostu.Model\bin\Debug\HayvanDostu.Model.dll
+C:\Users\SENA\Downloads\Hayvan Dostu Revize (1)\Hayvan Dostu Revize\HayvanDostu\HayvanDostu.Model\bin\Debug\HayvanDostu.Model.pdb
+C:\Users\SENA\Downloads\Hayvan Dostu Revize (1)\Hayvan Dostu Revize\HayvanDostu\HayvanDostu.Model\bin\Debug\HAYVANDOSTU.CORE.dll
+C:\Users\SENA\Downloads\Hayvan Dostu Revize (1)\Hayvan Dostu Revize\HayvanDostu\HayvanDostu.Model\bin\Debug\EntityFramework.dll
+C:\Users\SENA\Downloads\Hayvan Dostu Revize (1)\Hayvan Dostu Revize\HayvanDostu\HayvanDostu.Model\bin\Debug\HAYVANDOSTU.CORE.pdb
+C:\Users\SENA\Downloads\Hayvan Dostu Revize (1)\Hayvan Dostu Revize\HayvanDostu\HayvanDostu.Model\bin\Debug\HAYVANDOSTU.CORE.dll.config
+C:\Users\SENA\Downloads\Hayvan Dostu Revize (1)\Hayvan Dostu Revize\HayvanDostu\HayvanDostu.Model\bin\Debug\EntityFramework.xml
+C:\Users\SENA\Downloads\Hayvan Dostu Revize (1)\Hayvan Dostu Revize\HayvanDostu\HayvanDostu.Model\obj\Debug\HayvanDostu.Model.csprojAssemblyReference.cache
+C:\Users\SENA\Downloads\Hayvan Dostu Revize (1)\Hayvan Dostu Revize\HayvanDostu\HayvanDostu.Model\obj\Debug\HayvanDostu.Model.csproj.CoreCompileInputs.cache
+C:\Users\SENA\Downloads\Hayvan Dostu Revize (1)\Hayvan Dostu Revize\HayvanDostu\HayvanDostu.Model\obj\Debug\HayvanDostu.Model.csproj.CopyComplete
+C:\Users\SENA\Downloads\Hayvan Dostu Revize (1)\Hayvan Dostu Revize\HayvanDostu\HayvanDostu.Model\obj\Debug\HayvanDostu.Model.dll
+C:\Users\SENA\Downloads\Hayvan Dostu Revize (1)\Hayvan Dostu Revize\HayvanDostu\HayvanDostu.Model\obj\Debug\HayvanDostu.Model.pdb

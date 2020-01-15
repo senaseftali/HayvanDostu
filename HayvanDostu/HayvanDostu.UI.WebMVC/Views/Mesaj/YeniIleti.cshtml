@@ -1,0 +1,21 @@
+﻿
+@{
+    ViewBag.Title = "YeniIleti";
+    //Layout = null;
+}
+
+<h2>Yeni İleti Oluştur</h2>
+<form method="post">
+    <div class="form-group">
+        <label for="exampleFormControlInput1">Kime:</label>
+        <input type="email" class="form-control" name="email" placeholder="name@hayvandostu.com" required>
+    </div>
+    <div class="form-group">
+        <label for="exampleFormControlTextarea1">Mesaj:</label>
+        <textarea class="form-control" name="mesaj" rows="12" placeholder="Mesajınızı yazınız..." required></textarea>
+    </div>
+    <div class="form-group">
+        <button type="submit" class="form-control btn btn-success" id="Gonder">Gönder</button>
+    </div>
+</form>
+

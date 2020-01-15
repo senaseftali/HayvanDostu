@@ -1,0 +1,24 @@
+C:\Users\lenovo\Desktop\Hayvan Dostu Revize\HayvanDostu\HAYVANDOSTU.CORE\bin\Debug\HAYVANDOSTU.CORE.dll.config
+C:\Users\lenovo\Desktop\Hayvan Dostu Revize\HayvanDostu\HAYVANDOSTU.CORE\bin\Debug\HAYVANDOSTU.CORE.dll
+C:\Users\lenovo\Desktop\Hayvan Dostu Revize\HayvanDostu\HAYVANDOSTU.CORE\bin\Debug\HAYVANDOSTU.CORE.pdb
+C:\Users\lenovo\Desktop\Hayvan Dostu Revize\HayvanDostu\HAYVANDOSTU.CORE\bin\Debug\EntityFramework.dll
+C:\Users\lenovo\Desktop\Hayvan Dostu Revize\HayvanDostu\HAYVANDOSTU.CORE\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\lenovo\Desktop\Hayvan Dostu Revize\HayvanDostu\HAYVANDOSTU.CORE\bin\Debug\EntityFramework.xml
+C:\Users\lenovo\Desktop\Hayvan Dostu Revize\HayvanDostu\HAYVANDOSTU.CORE\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\lenovo\Desktop\Hayvan Dostu Revize\HayvanDostu\HAYVANDOSTU.CORE\obj\Debug\HayvanDostu.Core.csprojAssemblyReference.cache
+C:\Users\lenovo\Desktop\Hayvan Dostu Revize\HayvanDostu\HAYVANDOSTU.CORE\obj\Debug\HayvanDostu.Core.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\Hayvan Dostu Revize\HayvanDostu\HAYVANDOSTU.CORE\obj\Debug\HayvanDostu.Core.csproj.CopyComplete
+C:\Users\lenovo\Desktop\Hayvan Dostu Revize\HayvanDostu\HAYVANDOSTU.CORE\obj\Debug\HAYVANDOSTU.CORE.dll
+C:\Users\lenovo\Desktop\Hayvan Dostu Revize\HayvanDostu\HAYVANDOSTU.CORE\obj\Debug\HAYVANDOSTU.CORE.pdb
+C:\Users\SENA\Downloads\Hayvan Dostu Revize (1)\Hayvan Dostu Revize\HayvanDostu\HAYVANDOSTU.CORE\bin\Debug\HAYVANDOSTU.CORE.dll.config
+C:\Users\SENA\Downloads\Hayvan Dostu Revize (1)\Hayvan Dostu Revize\HayvanDostu\HAYVANDOSTU.CORE\bin\Debug\HAYVANDOSTU.CORE.dll
+C:\Users\SENA\Downloads\Hayvan Dostu Revize (1)\Hayvan Dostu Revize\HayvanDostu\HAYVANDOSTU.CORE\bin\Debug\HAYVANDOSTU.CORE.pdb
+C:\Users\SENA\Downloads\Hayvan Dostu Revize (1)\Hayvan Dostu Revize\HayvanDostu\HAYVANDOSTU.CORE\bin\Debug\EntityFramework.dll
+C:\Users\SENA\Downloads\Hayvan Dostu Revize (1)\Hayvan Dostu Revize\HayvanDostu\HAYVANDOSTU.CORE\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\SENA\Downloads\Hayvan Dostu Revize (1)\Hayvan Dostu Revize\HayvanDostu\HAYVANDOSTU.CORE\bin\Debug\EntityFramework.xml
+C:\Users\SENA\Downloads\Hayvan Dostu Revize (1)\Hayvan Dostu Revize\HayvanDostu\HAYVANDOSTU.CORE\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\SENA\Downloads\Hayvan Dostu Revize (1)\Hayvan Dostu Revize\HayvanDostu\HAYVANDOSTU.CORE\obj\Debug\HayvanDostu.Core.csprojAssemblyReference.cache
+C:\Users\SENA\Downloads\Hayvan Dostu Revize (1)\Hayvan Dostu Revize\HayvanDostu\HAYVANDOSTU.CORE\obj\Debug\HayvanDostu.Core.csproj.CoreCompileInputs.cache
+C:\Users\SENA\Downloads\Hayvan Dostu Revize (1)\Hayvan Dostu Revize\HayvanDostu\HAYVANDOSTU.CORE\obj\Debug\HayvanDostu.Core.csproj.CopyComplete
+C:\Users\SENA\Downloads\Hayvan Dostu Revize (1)\Hayvan Dostu Revize\HayvanDostu\HAYVANDOSTU.CORE\obj\Debug\HAYVANDOSTU.CORE.dll
+C:\Users\SENA\Downloads\Hayvan Dostu Revize (1)\Hayvan Dostu Revize\HayvanDostu\HAYVANDOSTU.CORE\obj\Debug\HAYVANDOSTU.CORE.pdb

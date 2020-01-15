@@ -1,0 +1,31 @@
+﻿@model IEnumerable<HayvanDostu.Model.KurumsalUye>
+
+@{
+    ViewBag.Title = "AnlasmaliKurumlar";
+}
+
+<h2>Anlaşmalı Kurumlar</h2>
+
+
+<table class="table">
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            <div class="card">
+                <div class="card-header">
+                    @item.KurumAdi
+                </div>
+                <div class="card-body">
+                    @foreach (var item1 in item.KurumsalTelefonlar)
+                    {
+                        <p class="card-text">@item1.TelefonNo</p>
+                    }
+                    <p class="card-text">@item.Hizmet</p>
+                </div>
+            </div>
+        </td>
+    </tr>
+}
+
+</table>

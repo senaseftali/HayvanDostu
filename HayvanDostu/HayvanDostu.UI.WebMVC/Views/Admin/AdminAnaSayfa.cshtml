@@ -1,0 +1,48 @@
+﻿@model IEnumerable<HayvanDostu.Model.Uye>
+
+@{
+    ViewBag.Title = "AnaSayfa";
+}
+
+@Html.ActionLink("Üye Talepleri", "Talep")
+
+    <div class="panel-body">
+        <table class="table table-striped">
+            <tbody>
+                @foreach (var item in Model)
+                {
+                <tr>
+                    <td>@item.KullaniciAdi</td>
+                    <td>@item.Sifre</td>
+                    <td>@item.Mail</td>
+                    <td>@item.Onay</td>
+                    <td><button class="btn btn-danger" data-UyeID="@item.UyeID">Sil</button></td>
+                </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+
+@section scripts{
+    <script>
+        $(".btn-danger").click(function () {
+            var uyeID = $(this).attr("data-UyeID");
+
+            $.ajax({
+                type: "GET",
+                url: "/Admin/Delete/" + uyeID,
+                success: function (response) {
+                    alert("Kayıt silindi");
+                    window.location.reload();
+                },
+                error: function (err) {
+                    alert("Hata oluştu");
+                    console.log(err);
+                }
+            });
+        });
+
+
+
+    </script>
+}

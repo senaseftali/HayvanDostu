@@ -1,0 +1,184 @@
+C:\Users\lenovo\Desktop\Hayvan Dostu Revize\HayvanDostu\HayvanDostu.UI.WebMVC\bin\HayvanDostu.UI.WebMVC.dll.config
+C:\Users\lenovo\Desktop\Hayvan Dostu Revize\HayvanDostu\HayvanDostu.UI.WebMVC\bin\HayvanDostu.UI.WebMVC.dll
+C:\Users\lenovo\Desktop\Hayvan Dostu Revize\HayvanDostu\HayvanDostu.UI.WebMVC\bin\HayvanDostu.UI.WebMVC.pdb
+C:\Users\lenovo\Desktop\Hayvan Dostu Revize\HayvanDostu\HayvanDostu.UI.WebMVC\bin\roslyn\csc.exe
+C:\Users\lenovo\Desktop\Hayvan Dostu Revize\HayvanDostu\HayvanDostu.UI.WebMVC\bin\roslyn\csc.exe.config
+C:\Users\lenovo\Desktop\Hayvan Dostu Revize\HayvanDostu\HayvanDostu.UI.WebMVC\bin\roslyn\csc.rsp
+C:\Users\lenovo\Desktop\Hayvan Dostu Revize\HayvanDostu\HayvanDostu.UI.WebMVC\bin\roslyn\csi.exe
+C:\Users\lenovo\Desktop\Hayvan Dostu Revize\HayvanDostu\HayvanDostu.UI.WebMVC\bin\roslyn\csi.exe.config
+C:\Users\lenovo\Desktop\Hayvan Dostu Revize\HayvanDostu\HayvanDostu.UI.WebMVC\bin\roslyn\csi.rsp
+C:\Users\lenovo\Desktop\Hayvan Dostu Revize\HayvanDostu\HayvanDostu.UI.WebMVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\lenovo\Desktop\Hayvan Dostu Revize\HayvanDostu\HayvanDostu.UI.WebMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\lenovo\Desktop\Hayvan Dostu Revize\HayvanDostu\HayvanDostu.UI.WebMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\lenovo\Desktop\Hayvan Dostu Revize\HayvanDostu\HayvanDostu.UI.WebMVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\lenovo\Desktop\Hayvan Dostu Revize\HayvanDostu\HayvanDostu.UI.WebMVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\lenovo\Desktop\Hayvan Dostu Revize\HayvanDostu\HayvanDostu.UI.WebMVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\lenovo\Desktop\Hayvan Dostu Revize\HayvanDostu\HayvanDostu.UI.WebMVC\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\lenovo\Desktop\Hayvan Dostu Revize\HayvanDostu\HayvanDostu.UI.WebMVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\lenovo\Desktop\Hayvan Dostu Revize\HayvanDostu\HayvanDostu.UI.WebMVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\lenovo\Desktop\Hayvan Dostu Revize\HayvanDostu\HayvanDostu.UI.WebMVC\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\lenovo\Desktop\Hayvan Dostu Revize\HayvanDostu\HayvanDostu.UI.WebMVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\lenovo\Desktop\Hayvan Dostu Revize\HayvanDostu\HayvanDostu.UI.WebMVC\bin\roslyn\System.AppContext.dll
+C:\Users\lenovo\Desktop\Hayvan Dostu Revize\HayvanDostu\HayvanDostu.UI.WebMVC\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\lenovo\Desktop\Hayvan Dostu Revize\HayvanDostu\HayvanDostu.UI.WebMVC\bin\roslyn\System.Console.dll
+C:\Users\lenovo\Desktop\Hayvan Dostu Revize\HayvanDostu\HayvanDostu.UI.WebMVC\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\lenovo\Desktop\Hayvan Dostu Revize\HayvanDostu\HayvanDostu.UI.WebMVC\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\lenovo\Desktop\Hayvan Dostu Revize\HayvanDostu\HayvanDostu.UI.WebMVC\bin\roslyn\System.IO.Compression.dll
+C:\Users\lenovo\Desktop\Hayvan Dostu Revize\HayvanDostu\HayvanDostu.UI.WebMVC\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\lenovo\Desktop\Hayvan Dostu Revize\HayvanDostu\HayvanDostu.UI.WebMVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\lenovo\Desktop\Hayvan Dostu Revize\HayvanDostu\HayvanDostu.UI.WebMVC\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\lenovo\Desktop\Hayvan Dostu Revize\HayvanDostu\HayvanDostu.UI.WebMVC\bin\roslyn\System.IO.Pipes.dll
+C:\Users\lenovo\Desktop\Hayvan Dostu Revize\HayvanDostu\HayvanDostu.UI.WebMVC\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\lenovo\Desktop\Hayvan Dostu Revize\HayvanDostu\HayvanDostu.UI.WebMVC\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\lenovo\Desktop\Hayvan Dostu Revize\HayvanDostu\HayvanDostu.UI.WebMVC\bin\roslyn\System.Security.Claims.dll
+C:\Users\lenovo\Desktop\Hayvan Dostu Revize\HayvanDostu\HayvanDostu.UI.WebMVC\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\lenovo\Desktop\Hayvan Dostu Revize\HayvanDostu\HayvanDostu.UI.WebMVC\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\lenovo\Desktop\Hayvan Dostu Revize\HayvanDostu\HayvanDostu.UI.WebMVC\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\lenovo\Desktop\Hayvan Dostu Revize\HayvanDostu\HayvanDostu.UI.WebMVC\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\lenovo\Desktop\Hayvan Dostu Revize\HayvanDostu\HayvanDostu.UI.WebMVC\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\lenovo\Desktop\Hayvan Dostu Revize\HayvanDostu\HayvanDostu.UI.WebMVC\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\lenovo\Desktop\Hayvan Dostu Revize\HayvanDostu\HayvanDostu.UI.WebMVC\bin\roslyn\System.ValueTuple.dll
+C:\Users\lenovo\Desktop\Hayvan Dostu Revize\HayvanDostu\HayvanDostu.UI.WebMVC\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\lenovo\Desktop\Hayvan Dostu Revize\HayvanDostu\HayvanDostu.UI.WebMVC\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\lenovo\Desktop\Hayvan Dostu Revize\HayvanDostu\HayvanDostu.UI.WebMVC\bin\roslyn\System.Xml.XPath.dll
+C:\Users\lenovo\Desktop\Hayvan Dostu Revize\HayvanDostu\HayvanDostu.UI.WebMVC\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\lenovo\Desktop\Hayvan Dostu Revize\HayvanDostu\HayvanDostu.UI.WebMVC\bin\roslyn\vbc.exe
+C:\Users\lenovo\Desktop\Hayvan Dostu Revize\HayvanDostu\HayvanDostu.UI.WebMVC\bin\roslyn\vbc.exe.config
+C:\Users\lenovo\Desktop\Hayvan Dostu Revize\HayvanDostu\HayvanDostu.UI.WebMVC\bin\roslyn\vbc.rsp
+C:\Users\lenovo\Desktop\Hayvan Dostu Revize\HayvanDostu\HayvanDostu.UI.WebMVC\bin\roslyn\VBCSCompiler.exe
+C:\Users\lenovo\Desktop\Hayvan Dostu Revize\HayvanDostu\HayvanDostu.UI.WebMVC\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\lenovo\Desktop\Hayvan Dostu Revize\HayvanDostu\HayvanDostu.UI.WebMVC\bin\EntityFramework.dll
+C:\Users\lenovo\Desktop\Hayvan Dostu Revize\HayvanDostu\HayvanDostu.UI.WebMVC\bin\EntityFramework.SqlServer.dll
+C:\Users\lenovo\Desktop\Hayvan Dostu Revize\HayvanDostu\HayvanDostu.UI.WebMVC\bin\HayvanDostu.BLL.dll
+C:\Users\lenovo\Desktop\Hayvan Dostu Revize\HayvanDostu\HayvanDostu.UI.WebMVC\bin\HayvanDostu.Model.dll
+C:\Users\lenovo\Desktop\Hayvan Dostu Revize\HayvanDostu\HayvanDostu.UI.WebMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\lenovo\Desktop\Hayvan Dostu Revize\HayvanDostu\HayvanDostu.UI.WebMVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\lenovo\Desktop\Hayvan Dostu Revize\HayvanDostu\HayvanDostu.UI.WebMVC\bin\Ninject.dll
+C:\Users\lenovo\Desktop\Hayvan Dostu Revize\HayvanDostu\HayvanDostu.UI.WebMVC\bin\Ninject.Web.Common.dll
+C:\Users\lenovo\Desktop\Hayvan Dostu Revize\HayvanDostu\HayvanDostu.UI.WebMVC\bin\Ninject.Web.Mvc.dll
+C:\Users\lenovo\Desktop\Hayvan Dostu Revize\HayvanDostu\HayvanDostu.UI.WebMVC\bin\System.Web.Helpers.dll
+C:\Users\lenovo\Desktop\Hayvan Dostu Revize\HayvanDostu\HayvanDostu.UI.WebMVC\bin\System.Web.Mvc.dll
+C:\Users\lenovo\Desktop\Hayvan Dostu Revize\HayvanDostu\HayvanDostu.UI.WebMVC\bin\System.Web.Razor.dll
+C:\Users\lenovo\Desktop\Hayvan Dostu Revize\HayvanDostu\HayvanDostu.UI.WebMVC\bin\System.Web.Webpages.Deployment.dll
+C:\Users\lenovo\Desktop\Hayvan Dostu Revize\HayvanDostu\HayvanDostu.UI.WebMVC\bin\System.Web.Webpages.dll
+C:\Users\lenovo\Desktop\Hayvan Dostu Revize\HayvanDostu\HayvanDostu.UI.WebMVC\bin\System.Web.Webpages.Razor.dll
+C:\Users\lenovo\Desktop\Hayvan Dostu Revize\HayvanDostu\HayvanDostu.UI.WebMVC\bin\WebActivatorEx.dll
+C:\Users\lenovo\Desktop\Hayvan Dostu Revize\HayvanDostu\HayvanDostu.UI.WebMVC\bin\HayvanDostu.DAL.dll
+C:\Users\lenovo\Desktop\Hayvan Dostu Revize\HayvanDostu\HayvanDostu.UI.WebMVC\bin\HAYVANDOSTU.CORE.dll
+C:\Users\lenovo\Desktop\Hayvan Dostu Revize\HayvanDostu\HayvanDostu.UI.WebMVC\bin\HayvanDostu.BLL.pdb
+C:\Users\lenovo\Desktop\Hayvan Dostu Revize\HayvanDostu\HayvanDostu.UI.WebMVC\bin\HayvanDostu.BLL.dll.config
+C:\Users\lenovo\Desktop\Hayvan Dostu Revize\HayvanDostu\HayvanDostu.UI.WebMVC\bin\HayvanDostu.Model.pdb
+C:\Users\lenovo\Desktop\Hayvan Dostu Revize\HayvanDostu\HayvanDostu.UI.WebMVC\bin\HayvanDostu.Model.dll.config
+C:\Users\lenovo\Desktop\Hayvan Dostu Revize\HayvanDostu\HayvanDostu.UI.WebMVC\bin\EntityFramework.xml
+C:\Users\lenovo\Desktop\Hayvan Dostu Revize\HayvanDostu\HayvanDostu.UI.WebMVC\bin\EntityFramework.SqlServer.xml
+C:\Users\lenovo\Desktop\Hayvan Dostu Revize\HayvanDostu\HayvanDostu.UI.WebMVC\bin\Ninject.xml
+C:\Users\lenovo\Desktop\Hayvan Dostu Revize\HayvanDostu\HayvanDostu.UI.WebMVC\bin\Ninject.Web.Common.xml
+C:\Users\lenovo\Desktop\Hayvan Dostu Revize\HayvanDostu\HayvanDostu.UI.WebMVC\bin\Ninject.Web.Mvc.xml
+C:\Users\lenovo\Desktop\Hayvan Dostu Revize\HayvanDostu\HayvanDostu.UI.WebMVC\bin\System.Web.Razor.xml
+C:\Users\lenovo\Desktop\Hayvan Dostu Revize\HayvanDostu\HayvanDostu.UI.WebMVC\bin\System.Web.Webpages.xml
+C:\Users\lenovo\Desktop\Hayvan Dostu Revize\HayvanDostu\HayvanDostu.UI.WebMVC\bin\System.Web.Webpages.Deployment.xml
+C:\Users\lenovo\Desktop\Hayvan Dostu Revize\HayvanDostu\HayvanDostu.UI.WebMVC\bin\System.Web.Webpages.Razor.xml
+C:\Users\lenovo\Desktop\Hayvan Dostu Revize\HayvanDostu\HayvanDostu.UI.WebMVC\bin\System.Web.Helpers.xml
+C:\Users\lenovo\Desktop\Hayvan Dostu Revize\HayvanDostu\HayvanDostu.UI.WebMVC\bin\System.Web.Mvc.xml
+C:\Users\lenovo\Desktop\Hayvan Dostu Revize\HayvanDostu\HayvanDostu.UI.WebMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\lenovo\Desktop\Hayvan Dostu Revize\HayvanDostu\HayvanDostu.UI.WebMVC\bin\HayvanDostu.DAL.pdb
+C:\Users\lenovo\Desktop\Hayvan Dostu Revize\HayvanDostu\HayvanDostu.UI.WebMVC\bin\HayvanDostu.DAL.dll.config
+C:\Users\lenovo\Desktop\Hayvan Dostu Revize\HayvanDostu\HayvanDostu.UI.WebMVC\bin\HAYVANDOSTU.CORE.pdb
+C:\Users\lenovo\Desktop\Hayvan Dostu Revize\HayvanDostu\HayvanDostu.UI.WebMVC\bin\HAYVANDOSTU.CORE.dll.config
+C:\Users\lenovo\Desktop\Hayvan Dostu Revize\HayvanDostu\HayvanDostu.UI.WebMVC\obj\Debug\HayvanDostu.UI.WebMVC.csprojAssemblyReference.cache
+C:\Users\lenovo\Desktop\Hayvan Dostu Revize\HayvanDostu\HayvanDostu.UI.WebMVC\obj\Debug\HayvanDostu.UI.WebMVC.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\Hayvan Dostu Revize\HayvanDostu\HayvanDostu.UI.WebMVC\obj\Debug\HayvanDostu.UI.WebMVC.csproj.CopyComplete
+C:\Users\lenovo\Desktop\Hayvan Dostu Revize\HayvanDostu\HayvanDostu.UI.WebMVC\obj\Debug\HayvanDostu.UI.WebMVC.dll
+C:\Users\lenovo\Desktop\Hayvan Dostu Revize\HayvanDostu\HayvanDostu.UI.WebMVC\obj\Debug\HayvanDostu.UI.WebMVC.pdb
+C:\Users\SENA\Downloads\Hayvan Dostu Revize (1)\Hayvan Dostu Revize\HayvanDostu\HayvanDostu.UI.WebMVC\bin\HayvanDostu.UI.WebMVC.dll.config
+C:\Users\SENA\Downloads\Hayvan Dostu Revize (1)\Hayvan Dostu Revize\HayvanDostu\HayvanDostu.UI.WebMVC\bin\HayvanDostu.UI.WebMVC.dll
+C:\Users\SENA\Downloads\Hayvan Dostu Revize (1)\Hayvan Dostu Revize\HayvanDostu\HayvanDostu.UI.WebMVC\bin\HayvanDostu.UI.WebMVC.pdb
+C:\Users\SENA\Downloads\Hayvan Dostu Revize (1)\Hayvan Dostu Revize\HayvanDostu\HayvanDostu.UI.WebMVC\bin\roslyn\csc.exe
+C:\Users\SENA\Downloads\Hayvan Dostu Revize (1)\Hayvan Dostu Revize\HayvanDostu\HayvanDostu.UI.WebMVC\bin\roslyn\csc.exe.config
+C:\Users\SENA\Downloads\Hayvan Dostu Revize (1)\Hayvan Dostu Revize\HayvanDostu\HayvanDostu.UI.WebMVC\bin\roslyn\csc.rsp
+C:\Users\SENA\Downloads\Hayvan Dostu Revize (1)\Hayvan Dostu Revize\HayvanDostu\HayvanDostu.UI.WebMVC\bin\roslyn\csi.exe
+C:\Users\SENA\Downloads\Hayvan Dostu Revize (1)\Hayvan Dostu Revize\HayvanDostu\HayvanDostu.UI.WebMVC\bin\roslyn\csi.exe.config
+C:\Users\SENA\Downloads\Hayvan Dostu Revize (1)\Hayvan Dostu Revize\HayvanDostu\HayvanDostu.UI.WebMVC\bin\roslyn\csi.rsp
+C:\Users\SENA\Downloads\Hayvan Dostu Revize (1)\Hayvan Dostu Revize\HayvanDostu\HayvanDostu.UI.WebMVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\SENA\Downloads\Hayvan Dostu Revize (1)\Hayvan Dostu Revize\HayvanDostu\HayvanDostu.UI.WebMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\SENA\Downloads\Hayvan Dostu Revize (1)\Hayvan Dostu Revize\HayvanDostu\HayvanDostu.UI.WebMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\SENA\Downloads\Hayvan Dostu Revize (1)\Hayvan Dostu Revize\HayvanDostu\HayvanDostu.UI.WebMVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\SENA\Downloads\Hayvan Dostu Revize (1)\Hayvan Dostu Revize\HayvanDostu\HayvanDostu.UI.WebMVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\SENA\Downloads\Hayvan Dostu Revize (1)\Hayvan Dostu Revize\HayvanDostu\HayvanDostu.UI.WebMVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\SENA\Downloads\Hayvan Dostu Revize (1)\Hayvan Dostu Revize\HayvanDostu\HayvanDostu.UI.WebMVC\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\SENA\Downloads\Hayvan Dostu Revize (1)\Hayvan Dostu Revize\HayvanDostu\HayvanDostu.UI.WebMVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\SENA\Downloads\Hayvan Dostu Revize (1)\Hayvan Dostu Revize\HayvanDostu\HayvanDostu.UI.WebMVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\SENA\Downloads\Hayvan Dostu Revize (1)\Hayvan Dostu Revize\HayvanDostu\HayvanDostu.UI.WebMVC\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\SENA\Downloads\Hayvan Dostu Revize (1)\Hayvan Dostu Revize\HayvanDostu\HayvanDostu.UI.WebMVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\SENA\Downloads\Hayvan Dostu Revize (1)\Hayvan Dostu Revize\HayvanDostu\HayvanDostu.UI.WebMVC\bin\roslyn\System.AppContext.dll
+C:\Users\SENA\Downloads\Hayvan Dostu Revize (1)\Hayvan Dostu Revize\HayvanDostu\HayvanDostu.UI.WebMVC\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\SENA\Downloads\Hayvan Dostu Revize (1)\Hayvan Dostu Revize\HayvanDostu\HayvanDostu.UI.WebMVC\bin\roslyn\System.Console.dll
+C:\Users\SENA\Downloads\Hayvan Dostu Revize (1)\Hayvan Dostu Revize\HayvanDostu\HayvanDostu.UI.WebMVC\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\SENA\Downloads\Hayvan Dostu Revize (1)\Hayvan Dostu Revize\HayvanDostu\HayvanDostu.UI.WebMVC\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\SENA\Downloads\Hayvan Dostu Revize (1)\Hayvan Dostu Revize\HayvanDostu\HayvanDostu.UI.WebMVC\bin\roslyn\System.IO.Compression.dll
+C:\Users\SENA\Downloads\Hayvan Dostu Revize (1)\Hayvan Dostu Revize\HayvanDostu\HayvanDostu.UI.WebMVC\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\SENA\Downloads\Hayvan Dostu Revize (1)\Hayvan Dostu Revize\HayvanDostu\HayvanDostu.UI.WebMVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\SENA\Downloads\Hayvan Dostu Revize (1)\Hayvan Dostu Revize\HayvanDostu\HayvanDostu.UI.WebMVC\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\SENA\Downloads\Hayvan Dostu Revize (1)\Hayvan Dostu Revize\HayvanDostu\HayvanDostu.UI.WebMVC\bin\roslyn\System.IO.Pipes.dll
+C:\Users\SENA\Downloads\Hayvan Dostu Revize (1)\Hayvan Dostu Revize\HayvanDostu\HayvanDostu.UI.WebMVC\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\SENA\Downloads\Hayvan Dostu Revize (1)\Hayvan Dostu Revize\HayvanDostu\HayvanDostu.UI.WebMVC\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\SENA\Downloads\Hayvan Dostu Revize (1)\Hayvan Dostu Revize\HayvanDostu\HayvanDostu.UI.WebMVC\bin\roslyn\System.Security.Claims.dll
+C:\Users\SENA\Downloads\Hayvan Dostu Revize (1)\Hayvan Dostu Revize\HayvanDostu\HayvanDostu.UI.WebMVC\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\SENA\Downloads\Hayvan Dostu Revize (1)\Hayvan Dostu Revize\HayvanDostu\HayvanDostu.UI.WebMVC\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\SENA\Downloads\Hayvan Dostu Revize (1)\Hayvan Dostu Revize\HayvanDostu\HayvanDostu.UI.WebMVC\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\SENA\Downloads\Hayvan Dostu Revize (1)\Hayvan Dostu Revize\HayvanDostu\HayvanDostu.UI.WebMVC\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\SENA\Downloads\Hayvan Dostu Revize (1)\Hayvan Dostu Revize\HayvanDostu\HayvanDostu.UI.WebMVC\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\SENA\Downloads\Hayvan Dostu Revize (1)\Hayvan Dostu Revize\HayvanDostu\HayvanDostu.UI.WebMVC\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\SENA\Downloads\Hayvan Dostu Revize (1)\Hayvan Dostu Revize\HayvanDostu\HayvanDostu.UI.WebMVC\bin\roslyn\System.ValueTuple.dll
+C:\Users\SENA\Downloads\Hayvan Dostu Revize (1)\Hayvan Dostu Revize\HayvanDostu\HayvanDostu.UI.WebMVC\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\SENA\Downloads\Hayvan Dostu Revize (1)\Hayvan Dostu Revize\HayvanDostu\HayvanDostu.UI.WebMVC\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\SENA\Downloads\Hayvan Dostu Revize (1)\Hayvan Dostu Revize\HayvanDostu\HayvanDostu.UI.WebMVC\bin\roslyn\System.Xml.XPath.dll
+C:\Users\SENA\Downloads\Hayvan Dostu Revize (1)\Hayvan Dostu Revize\HayvanDostu\HayvanDostu.UI.WebMVC\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\SENA\Downloads\Hayvan Dostu Revize (1)\Hayvan Dostu Revize\HayvanDostu\HayvanDostu.UI.WebMVC\bin\roslyn\vbc.exe
+C:\Users\SENA\Downloads\Hayvan Dostu Revize (1)\Hayvan Dostu Revize\HayvanDostu\HayvanDostu.UI.WebMVC\bin\roslyn\vbc.exe.config
+C:\Users\SENA\Downloads\Hayvan Dostu Revize (1)\Hayvan Dostu Revize\HayvanDostu\HayvanDostu.UI.WebMVC\bin\roslyn\vbc.rsp
+C:\Users\SENA\Downloads\Hayvan Dostu Revize (1)\Hayvan Dostu Revize\HayvanDostu\HayvanDostu.UI.WebMVC\bin\roslyn\VBCSCompiler.exe
+C:\Users\SENA\Downloads\Hayvan Dostu Revize (1)\Hayvan Dostu Revize\HayvanDostu\HayvanDostu.UI.WebMVC\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\SENA\Downloads\Hayvan Dostu Revize (1)\Hayvan Dostu Revize\HayvanDostu\HayvanDostu.UI.WebMVC\bin\EntityFramework.dll
+C:\Users\SENA\Downloads\Hayvan Dostu Revize (1)\Hayvan Dostu Revize\HayvanDostu\HayvanDostu.UI.WebMVC\bin\EntityFramework.SqlServer.dll
+C:\Users\SENA\Downloads\Hayvan Dostu Revize (1)\Hayvan Dostu Revize\HayvanDostu\HayvanDostu.UI.WebMVC\bin\HayvanDostu.BLL.dll
+C:\Users\SENA\Downloads\Hayvan Dostu Revize (1)\Hayvan Dostu Revize\HayvanDostu\HayvanDostu.UI.WebMVC\bin\HayvanDostu.Model.dll
+C:\Users\SENA\Downloads\Hayvan Dostu Revize (1)\Hayvan Dostu Revize\HayvanDostu\HayvanDostu.UI.WebMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\SENA\Downloads\Hayvan Dostu Revize (1)\Hayvan Dostu Revize\HayvanDostu\HayvanDostu.UI.WebMVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\SENA\Downloads\Hayvan Dostu Revize (1)\Hayvan Dostu Revize\HayvanDostu\HayvanDostu.UI.WebMVC\bin\Ninject.dll
+C:\Users\SENA\Downloads\Hayvan Dostu Revize (1)\Hayvan Dostu Revize\HayvanDostu\HayvanDostu.UI.WebMVC\bin\Ninject.Web.Common.dll
+C:\Users\SENA\Downloads\Hayvan Dostu Revize (1)\Hayvan Dostu Revize\HayvanDostu\HayvanDostu.UI.WebMVC\bin\Ninject.Web.Mvc.dll
+C:\Users\SENA\Downloads\Hayvan Dostu Revize (1)\Hayvan Dostu Revize\HayvanDostu\HayvanDostu.UI.WebMVC\bin\System.Web.Helpers.dll
+C:\Users\SENA\Downloads\Hayvan Dostu Revize (1)\Hayvan Dostu Revize\HayvanDostu\HayvanDostu.UI.WebMVC\bin\System.Web.Mvc.dll
+C:\Users\SENA\Downloads\Hayvan Dostu Revize (1)\Hayvan Dostu Revize\HayvanDostu\HayvanDostu.UI.WebMVC\bin\System.Web.Razor.dll
+C:\Users\SENA\Downloads\Hayvan Dostu Revize (1)\Hayvan Dostu Revize\HayvanDostu\HayvanDostu.UI.WebMVC\bin\System.Web.Webpages.Deployment.dll
+C:\Users\SENA\Downloads\Hayvan Dostu Revize (1)\Hayvan Dostu Revize\HayvanDostu\HayvanDostu.UI.WebMVC\bin\System.Web.Webpages.dll
+C:\Users\SENA\Downloads\Hayvan Dostu Revize (1)\Hayvan Dostu Revize\HayvanDostu\HayvanDostu.UI.WebMVC\bin\System.Web.Webpages.Razor.dll
+C:\Users\SENA\Downloads\Hayvan Dostu Revize (1)\Hayvan Dostu Revize\HayvanDostu\HayvanDostu.UI.WebMVC\bin\WebActivatorEx.dll
+C:\Users\SENA\Downloads\Hayvan Dostu Revize (1)\Hayvan Dostu Revize\HayvanDostu\HayvanDostu.UI.WebMVC\bin\HayvanDostu.DAL.dll
+C:\Users\SENA\Downloads\Hayvan Dostu Revize (1)\Hayvan Dostu Revize\HayvanDostu\HayvanDostu.UI.WebMVC\bin\HAYVANDOSTU.CORE.dll
+C:\Users\SENA\Downloads\Hayvan Dostu Revize (1)\Hayvan Dostu Revize\HayvanDostu\HayvanDostu.UI.WebMVC\bin\HayvanDostu.BLL.pdb
+C:\Users\SENA\Downloads\Hayvan Dostu Revize (1)\Hayvan Dostu Revize\HayvanDostu\HayvanDostu.UI.WebMVC\bin\HayvanDostu.BLL.dll.config
+C:\Users\SENA\Downloads\Hayvan Dostu Revize (1)\Hayvan Dostu Revize\HayvanDostu\HayvanDostu.UI.WebMVC\bin\HayvanDostu.Model.pdb
+C:\Users\SENA\Downloads\Hayvan Dostu Revize (1)\Hayvan Dostu Revize\HayvanDostu\HayvanDostu.UI.WebMVC\bin\HayvanDostu.Model.dll.config
+C:\Users\SENA\Downloads\Hayvan Dostu Revize (1)\Hayvan Dostu Revize\HayvanDostu\HayvanDostu.UI.WebMVC\bin\EntityFramework.xml
+C:\Users\SENA\Downloads\Hayvan Dostu Revize (1)\Hayvan Dostu Revize\HayvanDostu\HayvanDostu.UI.WebMVC\bin\EntityFramework.SqlServer.xml
+C:\Users\SENA\Downloads\Hayvan Dostu Revize (1)\Hayvan Dostu Revize\HayvanDostu\HayvanDostu.UI.WebMVC\bin\Ninject.xml
+C:\Users\SENA\Downloads\Hayvan Dostu Revize (1)\Hayvan Dostu Revize\HayvanDostu\HayvanDostu.UI.WebMVC\bin\Ninject.Web.Common.xml
+C:\Users\SENA\Downloads\Hayvan Dostu Revize (1)\Hayvan Dostu Revize\HayvanDostu\HayvanDostu.UI.WebMVC\bin\Ninject.Web.Mvc.xml
+C:\Users\SENA\Downloads\Hayvan Dostu Revize (1)\Hayvan Dostu Revize\HayvanDostu\HayvanDostu.UI.WebMVC\bin\System.Web.Razor.xml
+C:\Users\SENA\Downloads\Hayvan Dostu Revize (1)\Hayvan Dostu Revize\HayvanDostu\HayvanDostu.UI.WebMVC\bin\System.Web.Webpages.xml
+C:\Users\SENA\Downloads\Hayvan Dostu Revize (1)\Hayvan Dostu Revize\HayvanDostu\HayvanDostu.UI.WebMVC\bin\System.Web.Webpages.Deployment.xml
+C:\Users\SENA\Downloads\Hayvan Dostu Revize (1)\Hayvan Dostu Revize\HayvanDostu\HayvanDostu.UI.WebMVC\bin\System.Web.Webpages.Razor.xml
+C:\Users\SENA\Downloads\Hayvan Dostu Revize (1)\Hayvan Dostu Revize\HayvanDostu\HayvanDostu.UI.WebMVC\bin\System.Web.Helpers.xml
+C:\Users\SENA\Downloads\Hayvan Dostu Revize (1)\Hayvan Dostu Revize\HayvanDostu\HayvanDostu.UI.WebMVC\bin\System.Web.Mvc.xml
+C:\Users\SENA\Downloads\Hayvan Dostu Revize (1)\Hayvan Dostu Revize\HayvanDostu\HayvanDostu.UI.WebMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\SENA\Downloads\Hayvan Dostu Revize (1)\Hayvan Dostu Revize\HayvanDostu\HayvanDostu.UI.WebMVC\bin\HayvanDostu.DAL.pdb
+C:\Users\SENA\Downloads\Hayvan Dostu Revize (1)\Hayvan Dostu Revize\HayvanDostu\HayvanDostu.UI.WebMVC\bin\HayvanDostu.DAL.dll.config
+C:\Users\SENA\Downloads\Hayvan Dostu Revize (1)\Hayvan Dostu Revize\HayvanDostu\HayvanDostu.UI.WebMVC\bin\HAYVANDOSTU.CORE.pdb
+C:\Users\SENA\Downloads\Hayvan Dostu Revize (1)\Hayvan Dostu Revize\HayvanDostu\HayvanDostu.UI.WebMVC\bin\HAYVANDOSTU.CORE.dll.config
+C:\Users\SENA\Downloads\Hayvan Dostu Revize (1)\Hayvan Dostu Revize\HayvanDostu\HayvanDostu.UI.WebMVC\obj\Debug\HayvanDostu.UI.WebMVC.csprojAssemblyReference.cache
+C:\Users\SENA\Downloads\Hayvan Dostu Revize (1)\Hayvan Dostu Revize\HayvanDostu\HayvanDostu.UI.WebMVC\obj\Debug\HayvanDostu.UI.WebMVC.csproj.CoreCompileInputs.cache
+C:\Users\SENA\Downloads\Hayvan Dostu Revize (1)\Hayvan Dostu Revize\HayvanDostu\HayvanDostu.UI.WebMVC\obj\Debug\HayvanDostu.UI.WebMVC.csproj.CopyComplete
+C:\Users\SENA\Downloads\Hayvan Dostu Revize (1)\Hayvan Dostu Revize\HayvanDostu\HayvanDostu.UI.WebMVC\obj\Debug\HayvanDostu.UI.WebMVC.dll
+C:\Users\SENA\Downloads\Hayvan Dostu Revize (1)\Hayvan Dostu Revize\HayvanDostu\HayvanDostu.UI.WebMVC\obj\Debug\HayvanDostu.UI.WebMVC.pdb

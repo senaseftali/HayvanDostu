@@ -1,0 +1,75 @@
+﻿@model HayvanDostu.Model.ViewModels.BireyselUyeVM
+@{
+    ViewBag.Title = "UyeKayit";
+}
+<h3>Bireysel Üyelik</h3>
+<div class="row">
+    <div class="col-lg-8">
+        @using (Html.BeginForm("UyeKayit", "BireyselUye", FormMethod.Post, new { enctype = "multipart/form-data" }))
+        {
+            <div class="form-group">
+                <div class="form-group">
+                    <label>Ad</label>
+                    @Html.TextBoxFor(a => a.Ad, new { @class = "form-control" })
+                </div>
+                <div class="form-group">
+                    <label>Soyad</label>
+                    @Html.TextBoxFor(a => a.Soyad, new { @class = "form-control" })
+                </div>
+                <div class="form-group">
+                    <label>Doğum Tarihi</label>
+                    @Html.TextBoxFor(a => a.DogumTarihi, new { @class = "form-control" })
+                </div>
+                <div class="form-group">
+                    <label>Cinsiyet</label><br />
+                    Erkek
+                    @Html.RadioButtonFor(a => a.Cinsiyet, "Erkek")
+                    Kadın
+                    @Html.RadioButtonFor(a => a.Cinsiyet, "Kadın")
+                </div>
+                <div class="form-group">
+                    <label>Telefon</label>
+                    @Html.TextBoxFor(a => a.Telefon, new { @class = "form-control" })
+                </div>
+                <div class="form-group">
+                    <label>Adres</label>
+                    @Html.TextAreaFor(a => a.Adres, new { @class = "form-control", @style = "resize:none", rows = "5", cols = "40" })
+                </div>
+                <div class="form-group">
+                    <label> Evcil Hayvan Var Mı?</label><br />
+                    Evet
+                    @Html.RadioButtonFor(a => a.EvcilHayvanVarMi, "Evet")
+                    Hayır
+                    @Html.RadioButtonFor(a => a.EvcilHayvanVarMi, "Hayır")
+                </div>
+                <div class="form-group">
+                    <label>Varsa Türü ve Sayısı Nedir?</label>
+                    @Html.TextAreaFor(a => a.Adet, new { @class = "form-control", @style = "resize:none", rows = "5", cols = "40" })
+                </div>
+                <div class="form-group row">
+                    <label class="col-2 col-form-label">Fotoğraf Seç : </label>
+                    <div class="cols-2">
+                        <input type="file" name="Files" id="Files" /><br />
+                    </div>
+                </div>
+                <hr />
+                <h3>Giriş Bilgileri</h3>
+                <div class="form-group">
+                    <label>E-mail</label>
+                    @Html.TextBoxFor(a => a.Mail, new { @class = "form-control" })
+                </div>
+                <div class="form-group">
+                    <label>Kullanıcı Adı</label>
+                    @Html.TextBoxFor(a => a.KullaniciAdi, new { @class = "form-control" })
+                </div>
+                <div class="form-group">
+                    <label>Şifre</label>
+                    @Html.TextBoxFor(a => a.Sifre, new { @class = "form-control", type = "password" })
+                </div>
+                <div class="form-group">
+                    <input type="submit" name="submit" value="Kayıt Ol" class="btn btn-success" />
+                </div>
+            </div>
+        }
+    </div>
+</div>

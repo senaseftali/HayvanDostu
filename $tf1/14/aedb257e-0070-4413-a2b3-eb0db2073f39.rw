@@ -1,0 +1,8 @@
+﻿
+@{
+    ViewBag.Title = "GidenKutusu";
+    //Layout = null;
+}
+
+<h2>GidenKutusu</h2>
+
